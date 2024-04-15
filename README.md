@@ -57,13 +57,14 @@ Welcome to "Hey, Guess Me"! Can you guess the correct number chosen by the compu
 
 4. Start the game:
    ```
-   python HeyGuessMee.py
+   python HeyGuessMe.py
    ```
-
-## Credits
+## Credits   
 - Himel Sarder
-- Dept. of CSE, BSFMSTU
-- Jamalpur, Bangladesh
+- Department of Computer Science and Engineering
+- Bangamata Sheikh Fojilatunnesa Mujib Science and Technology University, Jamalpur, Bangladesh
+- Linkedin : [Himel Sarder](https://www.linkedin.com/in/himel-sarder/)
+- Gmail : [Contact with me](info.himelcse@gmail.com)
 
 ## License
 
